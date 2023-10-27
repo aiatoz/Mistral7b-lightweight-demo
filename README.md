@@ -1,5 +1,5 @@
 # Mistral7b-lightweight-demo
-Deploying Mistral 7b, which is a lightweight LLM.
+Deploying Mistral 7b, a lightweight LLM.
 
 It uses ctransformers library.
 
